@@ -771,9 +771,9 @@ ibm-watson-machine-learning==1.0.359 \
     --hash=sha256:782aacfbe2fcc58eccaf11645bf4e7facd300441874c1e7c7efa886fe9191e43 \
     --hash=sha256:79eba9709a215df83264a749db4d60872b7711e13f71eeacf4602cb6bd0a1d6f
     # via ols (pyproject.toml)
-ibm-watsonx-ai==1.0.8 \
-    --hash=sha256:b33c21e69befb06368820566529f9075ce6333c1b94767330c4e7d5843d6fa7c \
-    --hash=sha256:e483d2eab358c16688280d4034a6188bb26c149f34654db012ca310908435b5a
+ibm-watsonx-ai==1.0.10 \
+    --hash=sha256:6358838fc8e5a88f336a55063f3a8efee01311a1f6cab65acb5a7fbb7129670f \
+    --hash=sha256:e432396399efa342e5e41c6383cf2425890acd49e2b972eb6ea63c9f8409105f
     # via langchain-ibm
 idna==3.7 \
     --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
