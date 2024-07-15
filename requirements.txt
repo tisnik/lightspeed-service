@@ -1061,9 +1061,9 @@ llama-index-vector-stores-faiss==0.1.2 \
     --hash=sha256:6db18f4f11fdcce9294d7b1725805992006094766b9dcbd3967065f8997f0be9 \
     --hash=sha256:e462641e4f99ae140a4725103a3d5cad2caf1849cbb782ca405b1a6eb5de65dc
     # via ols (pyproject.toml)
-llama-parse==0.4.6 \
-    --hash=sha256:543450fd2b358b5ea2fcdf388613720da07a503e90ea1c3f4cedd66dae35fa41 \
-    --hash=sha256:9e6a6f80da1185d8b23a96ff3141a154a833003f8ea9c546601c68b2bbe424e6
+llama-parse==0.4.7 \
+    --hash=sha256:666041aa55f1af1e2ed4e86b482b623defcb4b12a2a874acf1812ec59eefdb80 \
+    --hash=sha256:d02220ba6ed55b1b654ab8b0570f00062222911bd16c93a58f71f7b128b7481e
     # via llama-index-readers-llama-parse
 llamaindex-py-client==0.1.19 \
     --hash=sha256:73f74792bb8c092bae6dc626627a09ac13a099fa8d10f8fcc83e17a2b332cca7 \
