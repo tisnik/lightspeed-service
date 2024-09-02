@@ -2120,9 +2120,9 @@ sqlalchemy[asyncio]==2.0.32 \
     #   llama-index-core
     #   llama-index-legacy
     #   ols (pyproject.toml)
-starlette==0.37.2 \
-    --hash=sha256:6fe59f29268538e5d0d182f2791a479a0c64638e6935d1c6989e63fb2699c6ee \
-    --hash=sha256:9af890290133b79fc3db55474ade20f6220a364a0402e0b556e7cd5e1e093823
+starlette==0.38.4 \
+    --hash=sha256:526f53a77f0e43b85f583438aee1a940fd84f8fd610353e8b0c1a77ad8a87e76 \
+    --hash=sha256:53a7439060304a208fea17ed407e998f46da5e5d9b1addfea3040094512a6379
     # via fastapi
 striprtf==0.0.26 \
     --hash=sha256:8c8f9d32083cdc2e8bfb149455aa1cc5a4e0a035893bedc75db8b73becb3a1bb \
