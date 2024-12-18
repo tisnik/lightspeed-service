@@ -999,9 +999,9 @@ scipy==1.13.0 \
     # via
     #   scikit-learn
     #   sentence-transformers
-sentence-transformers==3.1.1 \
-    --hash=sha256:8f00020ef4ad6b918475c38af545c22f61403b67eb22d994860bab06902db160 \
-    --hash=sha256:c73bf6f17e3676bb9372a6133a254ebfb5907586b470f2bac5a840c64c3cf97e
+sentence-transformers==3.3.1 \
+    --hash=sha256:9635dbfb11c6b01d036b9cfcee29f7716ab64cf2407ad9f403a2e607da2ac48b \
+    --hash=sha256:abffcc79dab37b7d18d21a26d5914223dd42239cfe18cb5e111c66c54b658ae7
     # via
     #   llama-index-embeddings-huggingface
     #   ols (pyproject.toml)
